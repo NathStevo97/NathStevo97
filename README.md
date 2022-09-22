@@ -30,7 +30,7 @@ When not working, I'll typically either be:<br>
 :video_game: Gaming (Assassin's Creed, Monster Hunter, FIFA)<br>
 :running_man: Running (5K PB: 26:40, 10K PB: 1:02:00)<br>
 :soccer: Watching Newcastle United in the Premier League<br>
-:tv: Binging a TV series with my partner :heart:
+:tv: Binging a TV series with my girlfriend :heart:
 
 ---
 
