@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, my name is Nathan :blush:
+# Hi there 👋, my name is Nathan :blush:
 I'm a Platform Engineer based in the United Kingdom and working for [Codification](https://codification.io/).
 I primarily work with various technologies used in DevOps such as Kubernetes, Terraform, and GitLab for CI/CD. 
 
