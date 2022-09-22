@@ -22,6 +22,7 @@ Programming-wise I generally use Python as I have done since my time at universi
 
 - 🔭 I’m currently working on preparing for my Vault Certified Associate exam 
 - 🌱 I’m currently learning HashiCorp Vault & Golang! 
+- :book: I'm currently reading Atomic Habits (James Clear)
 - 😄 Pronouns: He/Him 
 
 When not working, I'll typically either be:<br>
