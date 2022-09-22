@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm a Platform Engineer based in the United Kingdom and working for [Codification](https://codification.io/).
 I primarily work with various technologies used in DevOps such as Kubernetes, Terraform, and GitLab for CI/CD. 
 
-Programming-wise I generally use Python as I have done since my time at university studying physics; where I graduated with First Class Honours :mortar_board:
+Programming-wise I'm learning about Golang at the moment, but generally I use Python as I have done since my time at university studying Physics; where I graduated with First Class Honours :mortar_board:
 
 - 🔭 I’m currently working on preparing for my Vault Certified Associate exam 
 - 🌱 I’m currently learning HashiCorp Vault & Golang! 
