@@ -22,7 +22,7 @@ Programming-wise I'm learning about Golang at the moment, but generally I use Py
 
 - 🔭 I’m currently working on preparing for my Vault Certified Associate exam 
 - 🌱 I’m currently learning HashiCorp Vault & Golang! 
-- :book: I'm currently reading Atomic Habits (James Clear)
+- :book: I'm currently reading Dune (Frank Herbert)
 - 😄 Pronouns: He/Him 
 
 When not working, I'll typically either be:<br>
