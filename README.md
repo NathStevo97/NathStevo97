@@ -22,13 +22,13 @@ Programming-wise I'm learning about Golang at the moment, but generally I use Py
 
 - 🔭 I’m currently working on preparing for my Vault Certified Associate exam 
 - 🌱 I’m currently learning HashiCorp Vault & Golang! 
-- :book: I'm currently reading Dune (Frank Herbert)
+- :book: I'm currently reading The Subtle Art of Not Giving a F***
 - 😄 Pronouns: He/Him 
 
 When not working, I'll typically either be:<br>
 :computer: Working on a project or learning a new tool.<br>
 :video_game: Gaming (Assassin's Creed, Monster Hunter, FIFA)<br>
-:running_man: Running (5K PB: 26:40, 10K PB: 1:02:00)<br>
+:running_man: Running (5K PB: 26:02, 10K PB: 1:02:00)<br>
 :soccer: Watching Newcastle United in the Premier League<br>
 :tv: Binging a TV series with my girlfriend :heart:
 
