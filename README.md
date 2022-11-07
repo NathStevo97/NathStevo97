@@ -20,8 +20,8 @@ I primarily work with various technologies used in DevOps such as Kubernetes, Te
 
 Programming-wise I'm learning about Golang at the moment, but generally I use Python as I have done since my time at university studying Physics; where I graduated with First Class Honours :mortar_board:
 
-- 🔭 I’m currently working on preparing for my Vault Certified Associate exam 
-- 🌱 I’m currently learning HashiCorp Vault & Golang! 
+- 🔭 I’m currently working on preparing for my VCP Application Modernization exam 
+- 🌱 I’m currently learning more about HashiCorp Vault & Ansible. 
 - :book: I'm currently reading The Subtle Art of Not Giving a F***
 - 😄 Pronouns: He/Him 
 
