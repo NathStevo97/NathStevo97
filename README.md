@@ -20,14 +20,14 @@ I primarily work with various technologies used in DevOps such as Kubernetes, Te
 
 Programming-wise I'm learning about Golang at the moment, but generally I use Python as I have done since my time at university studying Physics; where I graduated with First Class Honours :mortar_board:
 
-- 🔭 I’m currently working on preparing for my VCP Application Modernization exam 
-- 🌱 I’m currently learning more about HashiCorp Vault & Ansible. 
+- 🔭 I’m currently working on building out and refining a few of my repos like my Packer and K3D-foucssed repos. 
+- 🌱 I’m currently learning more about Jenkins and ArgoCD. 
 - :book: I'm currently reading The Subtle Art of Not Giving a F***
 - 😄 Pronouns: He/Him 
 
 When not working, I'll typically either be:<br>
 :computer: Working on a project or learning a new tool.<br>
-:video_game: Gaming (Assassin's Creed, Monster Hunter, FIFA)<br>
+:video_game: Gaming (Assassin's Creed, Monster Hunter, F1)<br>
 :running_man: Running (5K PB: 26:02, 10K PB: 1:02:00)<br>
 :soccer: Watching Newcastle United in the Premier League<br>
 :tv: Binging a TV series with my girlfriend :heart:
