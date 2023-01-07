@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 -->
 
 # 👋 Hi there, my name is Nathan :blush:
-I'm a Platform Engineer based in the United Kingdom and working for [Codification](https://codification.io/).
+I'm a Platform Engineer / DevOps Consultant based in the United Kingdom.
+<!--and working for [Codification](https://codification.io/).-->
 I primarily work with various technologies used in DevOps such as Kubernetes, Terraform, and GitLab for CI/CD. 
 
 Programming-wise I'm learning about Golang at the moment, but generally I use Python as I have done since my time at university studying Physics; where I graduated with First Class Honours :mortar_board:
 
-- 🔭 I’m currently working on building out and refining a few of my repos like my Packer and K3D-foucssed repos. 
-- 🌱 I’m currently learning more about Jenkins and ArgoCD. 
+- 🔭 I’m currently working on building out and refining a few of my repos like my Packer and Kubernetes-foucssed repos. 
+- 🌱 I’m currently taking time to reflect on my time at [Codification](https://codification.io/) and look to the future. 
 - :book: I'm currently reading The Subtle Art of Not Giving a F***
 - 😄 Pronouns: He/Him 
 
