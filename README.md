@@ -15,20 +15,19 @@ Here are some ideas to get you started:
 -->
 
 # 👋 Hi there, my name is Nathan :blush:
-I'm a Platform Engineer / DevOps Consultant based in the United Kingdom.
-<!--and working for [Codification](https://codification.io/).-->
+I'm a DevOps Consultant based in the United Kingdom and working for [Opencast Software](https://opencastsoftware.com/)
 I primarily work with various technologies used in DevOps such as Kubernetes, Terraform, and GitLab for CI/CD. 
 
-Programming-wise I'm learning about Golang at the moment, but generally I use Python as I have done since my time at university studying Physics; where I graduated with First Class Honours :mortar_board:
+Programming-wise I'm trying to expand my Python skills, I have done since my time at university studying Physics; where I graduated with First Class Honours :mortar_board:
 
 - 🔭 I’m currently working on building out and refining a few of my repos like my Packer and Kubernetes-foucssed repos. 
-- 🌱 I’m currently taking time to reflect on my time at [Codification](https://codification.io/) and look to the future. 
+- 🌱 I’m currently getting started with [Opencast Software](https://opencastsoftware.com/) and getting to know my colleagues.
 - :book: I'm currently reading The Subtle Art of Not Giving a F***
 - 😄 Pronouns: He/Him 
 
 When not working, I'll typically either be:<br>
 :computer: Working on a project or learning a new tool.<br>
-:video_game: Gaming (Assassin's Creed, Monster Hunter, F1)<br>
+:video_game: Gaming (COD, Assassin's Creed, Monster Hunter, F1, etc.)<br>
 :running_man: Running (5K PB: 26:02, 10K PB: 1:02:00)<br>
 :soccer: Watching Newcastle United in the Premier League<br>
 :tv: Binging a TV series with my girlfriend :heart:
