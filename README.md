@@ -21,7 +21,7 @@ I primarily work with various technologies used in DevOps such as Kubernetes, Te
 Programming-wise I'm trying to expand my Python skills, I have done since my time at university studying Physics; where I graduated with First Class Honours :mortar_board:
 
 - 🔭 I’m currently working on building out and refining a few of my repos like my Packer and Kubernetes-foucssed repos. 
-- 🌱 I’m currently getting started with [Opencast Software](https://opencastsoftware.com/) getting set to start my first project.
+- 🌱 I’m currently working on a project with [Opencast Software](https://opencastsoftware.com/) setting up a data cataloguing platform on AWS.
 - :book: I'm currently reading The Subtle Art of Not Giving a F***
 - 😄 Pronouns: He/Him 
 
@@ -30,7 +30,7 @@ When not working, I'll typically either be:<br>
 :video_game: Gaming (COD, Assassin's Creed, Monster Hunter, F1, etc.)<br>
 :running_man: Running (5K PB: 26:02, 10K PB: 1:02:00)<br>
 :soccer: Watching Newcastle United in the Premier League<br>
-:tv: Binging a TV series with my girlfriend :heart:
+:tv: Binging a TV series with my fiancee :heart:
 
 ## Tools and Languages
 
