@@ -28,7 +28,7 @@ Programming-wise I'm trying to expand my Python skills, I have done since my tim
 When not working, I'll typically either be:<br>
 :computer: Working on a project or learning a new tool.<br>
 :video_game: Gaming (COD, Assassin's Creed, Monster Hunter, F1, etc.)<br>
-:running_man: Running (5K PB: 26:02, 10K PB: 1:02:00)<br>
+:running_man: Running (5K PB: 26:02, 10K PB: 57:53)<br>
 :soccer: Watching Newcastle United in the Premier League<br>
 :tv: Binging a TV series with my fiancee :heart:
 
