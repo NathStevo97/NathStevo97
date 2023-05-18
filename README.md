@@ -20,7 +20,7 @@ I primarily work with various technologies used in DevOps such as Kubernetes, Te
 
 Programming-wise I'm trying to expand my Python skills, I have done since my time at university studying Physics; where I graduated with First Class Honours :mortar_board:
 
-- 🔭 I’m currently working on building out and refining more of my repositories. 
+- 🔭 I’m currently working on renewing my Terraform Associate certification and working on the AWS Solution Architect Associate certification. 
 - 🌱 I’m currently in between projects whilst working for [Opencast Software](https://opencastsoftware.com/); my most recent project involved setting up a data cataloguing platform on AWS.
 - :book: I'm currently reading The Subtle Art of Not Giving a F***
 - 😄 Pronouns: He/Him 
