@@ -57,8 +57,11 @@ When not working, I'll typically either be:<br>
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NathStevo97&show_icons=true&count_private=true)  
+## :fire: My Stats :
 
-![GitHub metrics](https://metrics.lecoq.io/NathStevo97)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NathStevo97&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Profile views](https://gpvc.arturio.dev/NathStevo97)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathStevo97&layout=compact&theme=vision-friendly-dark)](https://github.com/NathStevo97/github-readme-stats)
+
+<img src="https://komarev.com/ghpvc/?username=NathStevo97&style=flat-square&color=blue" alt=""/>
+
