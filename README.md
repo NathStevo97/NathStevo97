@@ -22,8 +22,8 @@ Programming-wise I primarily work with Python, which I have done since my time a
 I'm also dabbling in JavaScript and Golang for awareness.
 
 - 🔭 I’m currently working on renewing my Terraform Associate certification and working on the AWS Solution Architect Associate certification. 
-- 🌱 I’m currently in between projects whilst working for [Opencast Software](https://opencastsoftware.com/); my most recent project involved setting up a data cataloguing platform on AWS.
-- :book: I'm currently reading The Phoenix Project
+- 🌱 I’m currently in between projects whilst working for [Opencast Software](https://opencastsoftware.com/); my most recent project involved setting up a data cataloging platform on AWS.
+- :book: I'm currently reading Peaky Blinders - The Real Story of Birmingham's most notorious gangs
 - 😄 Pronouns: He/Him 
 
 When not working, I'll typically either be:<br>
