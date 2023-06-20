@@ -59,9 +59,11 @@ When not working, I'll typically either be:<br>
 
 ## :fire: My Stats :
 
+[![NathStevo97's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathStevo97&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NathStevo97&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathStevo97&layout=compact&theme=vision-friendly-dark)](https://github.com/NathStevo97/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathStevo97&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=NathStevo97&style=flat-square&color=blue" alt=""/>
 
