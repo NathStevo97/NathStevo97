@@ -1,37 +1,24 @@
-<!--
-**NathStevo97/NathStevo97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 🌱 I’m currently learning HashiCorp Vault, Golang, and any other cloud-native technology that I happen to find interesting!
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
-
 # 👋 Hey there, I'm Nathan :blush:
 I'm a DevOps Consultant based in the United Kingdom and working for [Opencast Software](https://opencastsoftware.com/)
 I primarily work with various technologies used in DevOps such as Kubernetes, Terraform, and GitLab. 
 
 Programming-wise I primarily work with Python, which I have done since my time at university studying Physics; where I graduated with First Class Honours :mortar_board:
-I'm also dabbling in JavaScript and Golang for awareness.
 
 - 🔭 I’m currently working on renewing my Terraform Associate certification and working on the AWS Solution Architect Associate certification. 
-- 🌱 I’m currently in between projects whilst working for [Opencast Software](https://opencastsoftware.com/); my most recent project involved setting up a data cataloging platform on AWS.
-- :book: I'm currently reading Peaky Blinders - The Real Story of Birmingham's most notorious gangs
+- 🌱 I’m currently on a project for a public sector via [Opencast Software](https://opencastsoftware.com/), supporting the enhancements of a widely-used application process.
+- 📖 I'm currently reading Peaky Blinders - The Real Story of Birmingham's most notorious gangs
 - 😄 Pronouns: He/Him 
 
 When not working, I'll typically either be:<br>
-:computer: Working on a project or learning a new tool.<br>
-:video_game: Gaming (COD, Assassin's Creed, Monster Hunter, F1, etc.)<br>
-:running_man: Running (5K PB: 25:29, 10K PB: 57:53, Half-Marathon: Pending - I'm doing the Great North Run in September)<br>
-:soccer: Watching Newcastle United in the Premier League<br>
-:tv: Binging a TV series with my fiancee :heart:
+💻 Working on a personal project or learning a new tool.<br>
+🎮 Gaming (Monster Hunter, Call of Duty, Assassin's Creed are my main choices.)<br>
+🏃‍♂️ **Running:** 
+  - **5K PB:** 25:29 
+  - **10K PB:** 57:53
+  - **Half-Marathon:** Pending - I'm doing the Great North Run in September for the National Autistic Society, any donations are welcomed [here](https://greatnorthrun2023.enthuse.com/pf/nathan-stephenson-39ff9).
+
+⚽ Watching Newcastle United in the Premier League ⚫⚪<br>
+📺 Binging a TV series with my fiancee ❤️
 
 ## Tools and Languages
 
