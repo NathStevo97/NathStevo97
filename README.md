@@ -4,7 +4,7 @@ I primarily work with various technologies used in DevOps such as Kubernetes, Te
 
 Programming-wise I primarily work with Python, which I have done since my time at university studying Physics; where I graduated with First Class Honours :mortar_board:
 
-- 🔭 I’m currently working on renewing my Terraform Associate certification and working on the AWS Solution Architect Associate certification. 
+- 🔭 I’m currently working on renewing my Terraform Associate certification and CKAD certification. 
 - 🌱 I’m currently on a project for a public sector via [Opencast Software](https://opencastsoftware.com/), supporting the enhancements of a widely-used application process.
 - 📖 I'm currently reading Peaky Blinders - The Real Story of Birmingham's most notorious gangs
 - 😄 Pronouns: He/Him 
@@ -15,7 +15,7 @@ When not working, I'll typically either be:<br>
 🏃‍♂️ **Running:** 
   - **5K PB:** 25:29 
   - **10K PB:** 57:53
-  - **Half-Marathon:** Pending - I'm doing the Great North Run in September for the National Autistic Society, any donations are welcomed [here](https://greatnorthrun2023.enthuse.com/pf/nathan-stephenson-39ff9).
+  - **Half-Marathon:** 2:29:56
 
 ⚽ Watching Newcastle United in the Premier League ⚫⚪<br>
 📺 Binging a TV series with my fiancee ❤️
