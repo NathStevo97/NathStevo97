@@ -4,14 +4,14 @@ I primarily work with various technologies used in DevOps such as Kubernetes, Te
 
 Programming-wise I primarily work with Python, which I have done since my time at university studying Physics; where I graduated with First Class Honours :mortar_board:
 
-- 🔭 I’m currently working on renewing my Terraform Associate and CKAD certificaitons. 
-- 🌱 I’m currently on a project for a public sector via [Opencast Software](https://opencastsoftware.com/), supporting the enhancements of a widely-used application process.
+- 🔭 I’m currently working on renewing my Terraform Associate certification. 
+- 🌱 I’m currently awaiting my next project with [Opencast Software](https://opencastsoftware.com/), so I'm working on some personal projects in the meantime to upskill.
 - 📖 I'm currently reading Peaky Blinders - The Real Story of Birmingham's most notorious gangs
 - 😄 Pronouns: He/Him 
 
 When not working, I'll typically either be:<br>
 💻 Working on a personal project or learning a new tool.<br>
-🎮 Gaming (Monster Hunter, Call of Duty, Assassin's Creed are my main choices.)<br>
+🎮 Gaming (Monster Hunter, F1, EA FC 24 are my main choices at present.)<br>
 🏃‍♂️ **Running:** 
   - **5K PB:** 25:29 
   - **10K PB:** 57:53
