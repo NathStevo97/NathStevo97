@@ -5,7 +5,7 @@ I primarily work with various technologies used in DevOps such as Kubernetes, Te
 Programming-wise I primarily work with Python, which I have done since my time at university studying Physics; where I graduated with First Class Honours :mortar_board:
 
 - 🔭 I’m currently working on renewing my Terraform Associate certification. 
-- 🌱 I’m currently awaiting my next project with [Opencast Software](https://opencastsoftware.com/), so I'm working on some personal projects in the meantime to upskill.
+- 🌱 I’m currently working on a data anlytics-focussed project with [Opencast Software](https://opencastsoftware.com/).
 - 📖 I'm currently reading Peaky Blinders - The Real Story of Birmingham's most notorious gangs
 - 😄 Pronouns: He/Him 
 
