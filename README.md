@@ -4,7 +4,7 @@ I primarily work with various technologies used in DevOps such as Kubernetes, Te
 
 Programming-wise I primarily work with Python, which I have done since my time at university studying Physics; where I graduated with First Class Honours :mortar_board:
 
-- 🔭 I’m currently preparing to renew my Certified Kubernetes Security Specialist (CKS) Certification.
+- 🔭 I’m currently trying to get my Windows 10 & 11 Packer builds behaving in my [packer-examples](https://github.com/NathStevo97/packer-examples) repository.
 - 🌱 I’m currently working on a data anlytics-focussed project with [Opencast Software](https://opencastsoftware.com/).
 - 📖 I'm currently reading Peaky Blinders - The Real Story of Birmingham's most notorious gangs
 - 😄 Pronouns: He/Him 
@@ -13,7 +13,7 @@ When not working, I'll typically either be:<br>
 💻 Working on a personal project or learning a new tool.<br>
 🎮 Gaming (Monster Hunter, F1, EA FC 24 are my main choices at present.)<br>
 🏃‍♂️ **Running:** 
-  - **5K PB:** 25:11 
+  - **5K PB:** 25:06 
   - **10K PB:** 57:53
   - **Half-Marathon:** 2:29:56
 
