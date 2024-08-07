@@ -14,7 +14,7 @@ When not working, I'll typically either be:<br>
 🎮 Gaming (Monster Hunter, F1, EA FC 24 are my main choices at present).<br>
 🏃‍♂️ **Running:** 
   - **5K PB:** 24:41 
-  - **10K PB:** 57:53
+  - **10K PB:** 54:44
   - **Half-Marathon:** 2:29:56
 
 ⚽ Watching Newcastle United in the Premier League ⚫⚪<br>
