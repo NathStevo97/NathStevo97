@@ -11,7 +11,7 @@ Programming-wise I primarily work with Python, which I have done since my time a
 
 When not working, I'll typically either be:<br>
 💻 Working on a personal project or learning a new tool.<br>
-🎮 Gaming (Monster Hunter, F1, EA FC 24 are my main choices at present).<br>
+🎮 Gaming (Monster Hunter, F1 are my main choices at present).<br>
 🏃‍♂️ **Running:** 
   - **5K PB:** 24:30 
   - **10K PB:** 54:44
