@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Nathan :blush:
-I'm a DevOps Consultant based in the United Kingdom and working for [Opencast Software](https://opencastsoftware.com/).
+I'm a Senior DevOps Consultant based in the United Kingdom and working for [Opencast Software](https://opencastsoftware.com/).
 I primarily work with various technologies used in DevOps such as Kubernetes, Terraform, and GitLab. 
 
 Programming-wise I primarily work with Python, which I have done since my time at university studying Physics; where I graduated with First Class Honours :mortar_board:
