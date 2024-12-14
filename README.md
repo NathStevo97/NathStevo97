@@ -13,7 +13,7 @@ When not working, I'll typically either be:<br>
 💻 Working on a personal project or learning a new tool.<br>
 🎮 Gaming (Monster Hunter, F1 are my main choices at present).<br>
 🏃‍♂️ **Running:** 
-  - **5K PB:** 24:30 
+  - **5K PB:** 24:22 
   - **10K PB:** 54:44
   - **Half-Marathon:** 2:29:56
 
@@ -27,7 +27,7 @@ When not working, I'll typically either be:<br>
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS" height="60" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="60" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" height="60" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="Kubernetes" height="60" style="vertical-align:top; margin:4px">
+ <img src="https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1995-r1q3f8n7.png" alt="Kubernetes" height="60" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" alt="Terraform" height="60" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/packer/packer-original.svg" alt="Packer" height="60" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="60" style="vertical-align:top; margin:4px">
@@ -39,7 +39,7 @@ When not working, I'll typically either be:<br>
 <p align="center">
 <img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="" height="150" style="vertical-align:top; margin:4px">
 <img src="https://images.credly.com/size/680x680/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png" alt="" height="150" style="vertical-align:top; margin:4px">
-<img src="https://images.credly.com/size/680x680/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="" height="150" style="vertical-align:top; margin:4px">
+<img src="https://miro.medium.com/v2/resize:fit:800/1*KtMvyhCwgABkXSvL0wGleg.png" alt="" height="150" style="vertical-align:top; margin:4px">
 <img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="" height="150" style="vertical-align:top; margin:4px">
 <img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="" height="150" style="vertical-align:top; margin:4px">
 </p>
