@@ -6,14 +6,15 @@ Programming-wise I primarily work with Python, which I have done since my time a
 
 - 🔭 I’m currently trying to get my Windows 11 Packer builds in Hyper-V behaving in my [packer-examples](https://github.com/NathStevo97/packer-examples) repository.
 - 🌱 I’m currently working on a data anlytics and Machine Learning-focussed project with [Opencast Software](https://opencastsoftware.com/).
-- 📖 I'm currently reading Peaky Blinders - The Real Story of Birmingham's most notorious gangs
-- 😄 Pronouns: He/Him 
+- 😄 Pronouns: He/Him
+
+<!-- - 📖 I'm currently reading Peaky Blinders - The Real Story of Birmingham's most notorious gangs -->
 
 When not working, I'll typically either be:<br>
 💻 Working on a personal project or learning a new tool.<br>
 🎮 Gaming (Monster Hunter, F1 are my main choices at present).<br>
 🏃‍♂️ **Running:** 
-  - **5K PB:** 23:06 
+  - **5K PB:** 22:57 
   - **10K PB:** 54:44
   - **Half-Marathon:** 2:29:56
 
