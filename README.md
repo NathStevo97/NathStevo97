@@ -19,7 +19,7 @@ When not working, I'll typically either be:<br>
   - **Half-Marathon:** 2:29:56
 
 ⚽ Watching Newcastle United in the Premier League ⚫⚪<br>
-📺 Binging a TV series with my fiancee ❤️
+📺 Binging a TV series with my wife ❤️
 
 ## Tools and Languages
 
