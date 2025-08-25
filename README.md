@@ -38,11 +38,10 @@ When not working, I'll typically either be:<br>
 ## Certifications
 
 <p align="center">
-<img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="" height="150" style="vertical-align:top; margin:4px">
-<img src="https://images.credly.com/size/680x680/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png" alt="" height="150" style="vertical-align:top; margin:4px">
-<img src="https://miro.medium.com/v2/resize:fit:800/1*KtMvyhCwgABkXSvL0wGleg.png" alt="" height="150" style="vertical-align:top; margin:4px">
-<img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="" height="150" style="vertical-align:top; margin:4px">
-<img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="" height="150" style="vertical-align:top; margin:4px">
+<img src="https://images.credly.com/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="Terraform Associate Certification" height="150" style="vertical-align:top; margin:4px">
+<img src="https://miro.medium.com/v2/resize:fit:800/1*KtMvyhCwgABkXSvL0wGleg.png" alt="CKS" height="150" style="vertical-align:top; margin:4px">
+<img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD" height="150" style="vertical-align:top; margin:4px">
+<img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" height="150" style="vertical-align:top; margin:4px">
 </p>
 
 ## :handshake: Connect with Me
