@@ -24,15 +24,9 @@ When not working, I'll typically either be:<br>
 ## Tools and Languages
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="Azure" height="60" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS" height="60" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="60" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" height="60" style="vertical-align:top; margin:4px">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/500px-Kubernetes_logo_without_workmark.svg.png" alt="Kubernetes" height="60" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" alt="Terraform" height="60" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/packer/packer-original.svg" alt="Packer" height="60" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="60" style="vertical-align:top; margin:4px">
- <img src="https://github.com/hashicorp/vault/blob/f22d202cde2018f9455dec755118a9b84586e082/Vault_PrimaryLogo_Black.png" alt="Vault" height="60" style="vertical-align:top; margin:4px">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,bash,python,docker,kubernetes,terraform,vscode,ansible,github,gitlab,linux,md"/>
+  </a>
 </p>
 
 ## Certifications
@@ -47,9 +41,9 @@ When not working, I'll typically either be:<br>
 ## :handshake: Connect with Me
 
 <p align="center">
-<a href=https://github.com/NathStevo97><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='60'></a>
-<a href=https://www.linkedin.com/in/nathanjstephenson/><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='60'></a>
-<a href=https://www.instagram.com/nath_stevo_97/><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='60'></a>
+<a href=https://github.com/NathStevo97><img src='https://skillicons.dev/icons?i=github' alt='github' height='60'></a>
+<a href=https://www.linkedin.com/in/nathanjstephenson/><img src='https://skillicons.dev/icons?i=linkedin' alt='github' height='60'></a>
+<a href=https://www.instagram.com/nath_stevo_97/><img src='https://skillicons.dev/icons?i=instagram' alt='github' height='60'></a>
 </p>
 
 ---
