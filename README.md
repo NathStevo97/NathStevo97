@@ -41,12 +41,16 @@ When not working, I'll typically either be:<br>
 ## :handshake: Connect with Me
 
 <p align="center">
-<a href=https://github.com/NathStevo97><img src='https://skillicons.dev/icons?i=github' alt='github' height='60'></a>
-<a href=https://www.linkedin.com/in/nathanjstephenson/><img src='https://skillicons.dev/icons?i=linkedin' alt='github' height='60'></a>
-<a href=https://www.instagram.com/nath_stevo_97/><img src='https://skillicons.dev/icons?i=instagram' alt='github' height='60'></a>
+  <a href=https://github.com/NathStevo97>
+    <img src='https://skillicons.dev/icons?i=github' alt='github' height='60'>
+  </a>
+  <a href=https://www.linkedin.com/in/nathanjstephenson/>
+    <img src='https://skillicons.dev/icons?i=linkedin' alt='github' height='60'>
+  </a>
+  <a href=https://www.instagram.com/nath_stevo_97/>
+    <img src='https://skillicons.dev/icons?i=instagram' alt='github' height='60'>
+  </a>
 </p>
-
----
 
 ## :fire: My Stats :
 
