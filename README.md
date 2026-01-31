@@ -14,7 +14,7 @@ When not working, I'll typically either be:<br>
 💻 Working on a personal project or learning a new tool.<br>
 🎮 Gaming (Monster Hunter, F1 are my main choices at present).<br>
 🏃‍♂️ **Running:** 
-  - **5K PB:** 22:27 
+  - **5K PB:** 22:20
   - **10K PB:** 48:36
   - **Half-Marathon:** 2:29:56
 
