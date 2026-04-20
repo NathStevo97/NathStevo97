@@ -1,11 +1,11 @@
 # 👋 Hey there, I'm Nathan :blush:
 I'm a Senior DevOps Consultant based in the United Kingdom and working for [Opencast Software](https://opencastsoftware.com/).
-I primarily work with various technologies used in DevOps such as Kubernetes, Terraform, and GitLab. 
+I primarily work with various technologies and platforms used in DevOps such as, Terraform, AWS, Docker, Kubernetes; and GitLab. 
 
 Programming-wise I primarily work with Python, which I have done since my time at university studying Physics; where I graduated with First Class Honours :mortar_board:
 
 - 🔭 I’m currently trying to get my main repositories back up and running locally having recently migrated to Linux Mint from WIndows 11.
-- 🌱 I’m currently preparing for my next project with [Opencast Software](https://opencastsoftware.com/), having been involved in a data analytics-focussed project for the past 2 years.
+- 🌱 I’m currently leading a GitHub maturity assessment engagement via [Opencast Software](https://opencastsoftware.com/) with a public sector client.
 - 😄 Pronouns: He/Him
 
 <!-- - 📖 I'm currently reading Peaky Blinders - The Real Story of Birmingham's most notorious gangs -->
