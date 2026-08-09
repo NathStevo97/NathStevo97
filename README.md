@@ -4,7 +4,7 @@ I primarily work with various technologies and platforms used in DevOps such as,
 
 Programming-wise I primarily work with Python, which I have done since my time at university studying Physics; where I graduated with First Class Honours :mortar_board:
 
-- 🔭 I’m currently trying to get my main repositories back up and running locally having recently migrated to Linux Mint from WIndows 11.
+- 🔭 I’m currently trying to get my main repositories back up and running locally having recently migrated to Linux Mint from Windows 11.
 - 🌱 I’m currently leading a GitHub maturity assessment engagement via [Opencast Software](https://opencastsoftware.com/) with a public sector client.
 - 😄 Pronouns: He/Him
 
@@ -15,7 +15,7 @@ When not working, I'll typically either be:<br>
 🎮 Gaming (Monster Hunter, F1 are my main choices at present).<br>
 🏃‍♂️ **Running:** 
   - **5K PB:** 21:44
-  - **10K PB:** 48:36
+  - **10K PB:** 47:37
   - **Half-Marathon:** 2:29:56
 
 ⚽ Watching Newcastle United in the Premier League ⚫⚪<br>
